@@ -27,7 +27,7 @@ h1 {
 }
 .tree {
 margin-left: 450px;
-   rotate: 270deg;
+   rotate: (270deg);
 }
 
 body {
